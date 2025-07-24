@@ -7,14 +7,13 @@ A Django REST API for importing PilotLog data and exporting to ForeFlight format
 1. **Setup Environment**
    ```bash
    python -m venv .venv
-   source .venv/bin/activate  # On Windows: .venv\Scripts\activate
+   source .venv/bin/activate  
    pip install -r requirements.txt
    ```
 
 2. **Configure Environment**
-   ```bash
-   cp .env.example .env
-   # Edit .env with your settings
+   ```
+   Just install and run :)
    ```
 
 3. **Run Server**
